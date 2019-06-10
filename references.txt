@@ -1,0 +1,17 @@
+DDPG:
+https://towardsdatascience.com/deep-deterministic-policy-gradients-explained-2d94655a9b7b
+https://medium.com/@kinwo/solving-continuous-control-environment-using-deep-deterministic-policy-gradient-ddpg-agent-5e94f82f366d
+https://medium.com/@markus.x.buchholz/deep-reinforcement-learning-deep-deterministic-policy-gradient-ddpg-algoritm-5a823da91b43
+
+https://github.com/cyoon1729/Reinforcement-learning 
+https://github.com/markusbuchholz/deep-reinforcement-learning/tree/master/p2_continuous-control 
+https://github.com/openai/baselines/tree/master/baselines/ddpg
+
+Huber Loss function
+https://en.wikipedia.org/wiki/Huber_loss
+https://www.reddit.com/r/MachineLearning/comments/6dmzdy/d_on_using_huber_loss_in_deep_qlearning/
+
+Many ideas on agent and reward function have been obtained/refined based on the discussions in the Udacity Slack channel. 
+
+
+
